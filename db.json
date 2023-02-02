@@ -1,3 +1,90 @@
 {
-  "users":[]
+  "users":[ {
+    "name": "Nishant Prajapati",
+    "age": "22",
+    "gender": "male",
+    "country": "India",
+    "profession": "student",
+    "id": 1
+  },
+  {
+    "name": "Nishant Prajapati",
+    "age": "22",
+    "gender": "male",
+    "country": "India",
+    "profession": "employed",
+    "id": 2
+  },
+  {
+    "name": "Nishant Prajapati",
+    "age": "22",
+    "gender": "male",
+    "country": "US",
+    "profession": "student",
+    "id": 3
+  },
+  {
+    "name": "Nishant Prajapati",
+    "age": "22",
+    "gender": "male",
+    "country": "US",
+    "profession": "employed",
+    "id": 4
+  },
+  {
+    "name": "Nishant Prajapati",
+    "age": "22",
+    "gender": "male",
+    "country": "US",
+    "profession": "employed",
+    "id": 5
+  },
+  {
+    "name": "John",
+    "age": "28",
+    "gender": "male",
+    "country": "Germany",
+    "profession": "student",
+    "id": 6
+  },
+  {
+    "name": "Abhay",
+    "age": "18",
+    "gender": "male",
+    "country": "Germany",
+    "profession": "student",
+    "id": 7
+  },
+  {
+    "name": "Julia",
+    "age": "21",
+    "gender": "female",
+    "country": "US",
+    "profession": "employed",
+    "id": 8
+  },
+  {
+    "name": "Brian",
+    "age": "23",
+    "gender": "male",
+    "country": "US",
+    "profession": "student",
+    "id": 9
+  },
+  {
+    "name": "Alina",
+    "age": "38",
+    "gender": "female",
+    "country": "US",
+    "profession": "employed",
+    "id": 10
+  },
+  {
+    "name": "Radha",
+    "age": "45",
+    "gender": "female",
+    "country": "India",
+    "profession": "employed",
+    "id": 11
+  }]
 }
