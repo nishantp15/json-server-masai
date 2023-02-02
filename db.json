@@ -8,34 +8,34 @@
     "id": 1
   },
   {
-    "name": "Nishant Prajapati",
-    "age": "22",
+    "name": "Chris",
+    "age": "23",
     "gender": "male",
-    "country": "India",
+    "country": "Germany",
     "profession": "employed",
     "id": 2
   },
   {
-    "name": "Nishant Prajapati",
-    "age": "22",
-    "gender": "male",
+    "name": "Natasha",
+    "age": "24",
+    "gender": "female",
     "country": "US",
     "profession": "student",
     "id": 3
   },
   {
-    "name": "Nishant Prajapati",
-    "age": "22",
+    "name": "Robert",
+    "age": "20",
     "gender": "male",
     "country": "US",
     "profession": "employed",
     "id": 4
   },
   {
-    "name": "Nishant Prajapati",
-    "age": "22",
+    "name": "Aryan",
+    "age": "26",
     "gender": "male",
-    "country": "US",
+    "country": "India",
     "profession": "employed",
     "id": 5
   },
@@ -86,5 +86,29 @@
     "country": "India",
     "profession": "employed",
     "id": 11
+  },
+  {
+    "name": "Avya",
+    "age": "14",
+    "gender": "female",
+    "country": "India",
+    "profession": "student",
+    "id": 12
+  },
+  {
+    "name": "Ajay",
+    "age": "16",
+    "gender": "male",
+    "country": "India",
+    "profession": "student",
+    "id": 13
+  },
+  {
+    "name": "Samay",
+    "age": "18",
+    "gender": "male",
+    "country": "India",
+    "profession": "employed",
+    "id": 14
   }]
 }
